@@ -1,1 +1,1 @@
-# testing-the-github-pages
+# How to create a website on Github Pages
